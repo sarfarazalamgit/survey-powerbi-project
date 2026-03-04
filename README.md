@@ -18,11 +18,7 @@ The objective of this project is to develop a Power BI dashboard that visually a
 
 ---
 
-## Questions (KPIs)
-# Dashboard Insights
-
-This Power BI dashboard provides valuable insights into the landscape of data professionals. Below are important questions that can be addressed through the analysis:
-
+## Questions (KPIs):
 1. **What is the average salary for different job titles in the data field?**
    - Helps assess compensation trends and identify salary disparities.
 
@@ -41,19 +37,19 @@ This Power BI dashboard provides valuable insights into the landscape of data pr
 
 ---
 
-## Process
+## Process:
 1. Verify data for any missing values and anomalies, and sort out the same.
 2. Ensure data is consistent and clean with respect to data type, data format, and values used.
 3. Create dashboards according to the questions asked.
 
 ---
 
-## Dashboard
+## Dashboard:
 <img src="dashboard.PNG" alt="Dashboard"/>
 
 ---
 
-## Project Insights
+## Project Insights:
 1. The average salary for different job titles in the data field are:
 - Data Scientist - 93.78K Dollars
 - Data Engineer - 65.09K Dollars
@@ -70,7 +66,7 @@ This Power BI dashboard provides valuable insights into the landscape of data pr
 
 ---
 
-## Final Conclusion
+## Final Conclusion:
 To improve job satisfaction among data professionals, strategies should target the disparities in average salaries, especially for Data Analysts and Students/Job Seekers. Companies should consider tailored compensation packages to enhance satisfaction, particularly in regions with lower ratings, such as India.
 
 With Python and R being the most popular programming languages, promoting training in these areas can aid talent retention. Additionally, with a work/life balance happiness score of 5.74 out of 10, organizations should implement initiatives that foster better work/life integration. These efforts will contribute to a more satisfied and engaged workforce in the data field.
